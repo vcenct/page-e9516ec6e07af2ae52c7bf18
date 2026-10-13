@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "75b2de37b46642387d79081a",
+  "owner": "vcenct",
+  "repo": "page-e9516ec6e07af2ae52c7bf18",
+  "title": "GPT中转",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e9516ec6e07af2ae52c7bf18",
+      "a": "GPT中转",
+      "b": "",
+      "entity": "GPT中转",
+      "brand": "GPT中转",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c691e0205cab7f68229534098f1c03b34248fe31f56822e246d4e5dd4b58a2ef",
+      "content": {
+        "keyword1": "GPT中转",
+        "keyword2": "",
+        "primary_entity": "GPT中转",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GPT中转提供高效VPN中转服务，支持多设备在线，解锁全球流媒体，优化游戏加速。立即下载客户端体验高速网络！",
+          "AI_DESCRIPTION": "GPT中转提供高效VPN中转服务，支持多设备在线，解锁全球流媒体，优化游戏加速。立即下载客户端体验高速网络！"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --deep-blue: #0A2540;\n            --cyan: #00D4FF;\n        }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            margin: 0;\n            padding: 0;\n            background: var(--deep-blue);\n            color: #fff;\n            line-height: 1.6;\n        }\n        .container {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        h1 {\n            color: var(--cyan);\n            text-align: center;\n            font-size: 2.5em;\n            margin-bottom: 20px;\n        }\n        .section {\n            display: flex;\n            flex-wrap: wrap;\n            margin-bottom: 40px;\n            gap: 20px;\n        }\n        .left, .right {\n            flex: 1;\n            min-width: 300px;\n        }\n        @media (max-width: 768px) {\n            .section {\n                flex-direction: column;\n            }\n        }\n        .intro {\n            background: rgba(255,255,255,0.05);\n            padding: 30px;\n            border-radius: 8px;\n        }\n        .features {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));\n            gap: 20px;\n        }\n        .feature {\n            background: rgba(255,255,255,0.05);\n            padding: 20px;\n            border-radius: 8px;\n        }\n        h2 {\n            color: var(--cyan);\n            border-bottom: 2px solid var(--cyan);\n            padding-bottom: 10px;\n        }\n        .plan {\n            background: rgba(255,255,255,0.05);\n            padding: 20px;\n            border-radius: 8px;\n            margin-bottom: 20px;\n        }\n        .plan.featured {\n            border: 2px solid var(--cyan);\n        }\n        .faq {\n            margin-top: 20px;\n        }\n        details {\n            background: rgba(255,255,255,0.05);\n            margin-bottom: 10px;\n            border-radius: 8px;\n            padding: 15px;\n        }\n        summary {\n            cursor: pointer;\n            font-weight: bold;\n            color: var(--cyan);\n        }\n        footer {\n            background: #051826;\n            padding: 20px;\n            text-align: center;\n        }\n        a {\n            color: var(--cyan);\n            text-decoration: none;\n        }\n        a:hover {\n            text-decoration: underline;\n        }\n    </style>\n\n\n    <main class=\"container\">\n        <h1>GPT中转</h1>\n        <div class=\"section\">\n            <div class=\"left intro\">\n                <h2>品牌简介</h2>\n                <p>GPT中转是一款专业的VPN中转加速器，旨在为用户提供稳定高速的网络连接。无论您是个人用户还是企业团队，我们都提供多种套餐选择，满足不同需求。</p>\n                <p>通过先进的节点优化和智能路由，GPT中转确保您的网络速度和稳定性，让您畅享无忧的在线体验。</p>\n            </div>\n            <div class=\"right\">\n                <h2>核心优势</h2>\n                <div class=\"features\">\n                    <div class=\"feature\">\n                        <h3>高速流量</h3>\n                        <p>每月最高1000GB极速流量，满足日常使用需求。</p>\n                    </div>\n                    <div class=\"feature\">\n                        <h3>多设备支持</h3>\n                        <p>支持多台设备同时在线，方便家庭或团队使用。</p>\n                    </div>\n                    <div class=\"feature\">\n                        <h3>流媒体解锁</h3>\n                        <p>全节点原生解锁Netflix、YouTube等主流平台。</p>\n                    </div>\n                    <div class=\"feature\">\n                        <h3>游戏加速</h3>\n                        <p>IPLC专线优化，提供低延迟游戏加速。</p>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"section\">\n            <div class=\"left\">\n                <h2>使用场景</h2>\n                <p>使用GPT中转，您可以轻松解锁被屏蔽的流媒体内容，享受高清视频观看。无论是远程办公还是在线购物，都能获得稳定网络支持。适合全球用户，无论您身在何处，都能保持高品质的互联网连接。</p>\n            </div>\n            <div class=\"right\">\n                <h2>配置流程</h2>\n                <ol>\n                    <li>访问官网，下载并安装客户端。</li>\n                    <li>注册账号，选择合适的套餐。</li>\n                    <li>登录后，选择推荐节点进行连接。</li>\n                    <li>完成配置，即可享受加速服务。</li>\n                </ol>\n            </div>\n        </div>\n        <div class=\"section\">\n            <h2>套餐选择</h2>\n            <div class=\"plan featured\">\n                <h3>旗舰版</h3>\n                <p>¥35/月 （按年付仅需 ¥350/年）</p>\n                <ul>\n                    <li>每月 300GB 极速流量</li>\n                    <li>支持 5 台设备同时在线</li>\n                    <li>全节点原生流媒体解锁</li>\n                    <li>IPLC 专线游戏加速优化</li>\n                    <li>7x24 优先工单支持</li>\n                </ul>\n            </div>\n            <div class=\"plan\">\n                <h3>基础版</h3>\n                <p>¥15/月 （按年付仅需 ¥150/年）</p>\n                <ul>\n                    <li>每月 100GB 极速流量</li>\n                    <li>支持 3 台设备同时在线</li>\n                    <li>解锁基础流媒体</li>\n                    <li>普通线路节点池</li>\n                </ul>\n            </div>\n            <div class=\"plan\">\n                <h3>团队版</h3>\n                <p>¥85/月 （按年付仅需 ¥850/年）</p>\n                <ul>\n                    <li>每月 1000GB 极速流量</li>\n                    <li>支持 20 台设备同时在线</li>\n                    <li>VIP 专属高带宽节点</li>\n                    <li>支持企业定制路由</li>\n                    <li>专属客户经理服务</li>\n                </ul>\n            </div>\n        </div>\n        <div class=\"faq\">\n            <h2>常见问题</h2>\n            <details>\n                <summary>什么是GPT中转？</summary>\n                <p>GPT中转是一款专业的VPN中转加速器，提供稳定高速的网络连接，助力用户畅享在线世界。</p>\n            </details>\n            <details>\n                <summary>GPT中转支持哪些设备？</summary>\n                <p>支持多台设备同时在线，具体数量根据套餐而定。</p>\n            </details>\n            <details>\n                <summary>如何解锁流媒体？</summary>\n                <p>选择对应节点后，即可原生解锁Netflix、YouTube等平台，无需额外工具。</p>\n            </details>\n            <details>\n                <summary>节点池有哪些类型？</summary>\n                <p>提供普通线路节点池和IPLC专线节点，满足不同使用场景。</p>\n            </details>\n            <details>\n                <summary>如何获取官方下载？</summary>\n                <p>请访问官网下载客户端，获取最新版本以获得最佳体验。</p>\n            </details>\n        </div>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer>\n        <p>友情链接：<a href=\"#\">官方博客</a> | <a href=\"#\">社区论坛</a></p>\n        <p>广告位：<a href=\"#\">赞助合作</a></p>\n    </footer>\n\n",
+          "hash": "93a2b7a1c78e730380fa5aaf1e07f9a2227b458caa331bdfa1568ac2475b8253",
+          "seo": {
+            "title": "GPT中转 - 专业VPN中转加速器 | 官方客户端下载",
+            "keywords": "GPT中转, VPN中转, 机场订阅, 加速器, 客户端下载, 流媒体解锁",
+            "description": "GPT中转提供高效VPN中转服务，支持多设备在线，解锁全球流媒体，优化游戏加速。立即下载客户端体验高速网络！"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "54e6d3.cn",
+    "host": "p-385d913e9a.54e6d3.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "517392dfcb35663a6d58a7c1c66ae59b1b7b53b32bd1f04a4b938b5abbb8cafd",
+    "sitemap.xml": "d113d0d87e374e35c5e885176604e29ad81a3c26644549448f70aff42887a98d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5bfb50e1d938027271cc7986396c32ecb89746c8a0d7762d4145286ccc8709ac",
+    "robots.txt": "8f9cb63d0c900c883630209b65d994717072a743c12b8571f0b2b24cf28d1f00",
+    "a78778deeb0c461bdc6d9a5ca55cbdec.txt": "18ab9d7fc454d9175036a8abbbae7f13ac88d4bfdf89ac73a89e12fab0d0f3e9"
+  },
+  "revision": "415a6c03bda0f10c70155738518a09dac1df769f7593274f42c020eb7d4364be"
+}
